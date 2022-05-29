@@ -1,0 +1,11 @@
+Git Account Credentials:
+---------------------
+	Username: jmviradukunda
+	Emial: jmvirad200@gmail.com
+	Password: Mbuye-kabuga1234
+
+			Hosting Sites
+			--------------
+
+				1. heroku.com.backend
+				2. vercel.app
